@@ -1,0 +1,15 @@
+body {
+    display: grid;
+    grid-template-columns: 25vw 33vw 33vw;
+
+}
+
+.blue{
+    grid-column: 1/2;
+    grid-row: 1/4;
+}
+
+.red{
+    grid-column: 2/4;
+    grid-row: 2/4;
+}

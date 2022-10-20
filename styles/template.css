@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    min-height: 99vh;
+    font-family: "Graduate", sans-serif;
+}
+
+div {
+    display: flex;
+    min-height: 200px;
+    justify-content: center;
+    align-items: center;
+}
